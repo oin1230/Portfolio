@@ -9,9 +9,8 @@
 </br>
 
 ## :pushpin: Contact
-- 이메일: 
-- 블로그: 
-- 깃헙: 
+- 이메일: oiny94@gmail.com 
+- Github: https://github.com/oin1230
 
 </br>
 
